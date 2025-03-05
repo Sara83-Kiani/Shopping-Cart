@@ -1,0 +1,26 @@
+[
+    {
+      "id": 1,
+      "name": "Crocodile",
+      "price": 10.99,
+      "imgUrl": "/imgs/crocodile.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Mobs",
+      "price": 1199,
+      "imgUrl": "/imgs/mobs.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Sport Shoes",
+      "price": 1.05,
+      "imgUrl": "/imgs/shoes.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Car",
+      "price": 14000,
+      "imgUrl": "/imgs/mobs.jpg"
+    }
+  ]
