@@ -1,6 +1,6 @@
 # 🛒 Shopping Cart App
 
-A modern shopping cart application built with **React**, **TypeScript**, and **Tailwind CSS** — based on the tutorial by Web Dev Simplified.
+A modern shopping cart application built with React, TypeScript, and Tailwind CSS — based on the tutorial by Web Dev Simplified.
 
 ## 🚀 Features
 
